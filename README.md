@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/SamuelKrabbe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelKrabbe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKrabbe&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamuelKrabbe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKrabbe&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
