@@ -9,9 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/SamuelKrabbe">
-  <div style="display:flex;flex-direction:column">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelKrabbe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKrabbe&layout=compact&langs_count=7&theme=vue-dark"/>
+  <div style="background-color: red;display: flex;flex-direction: column">
+    <img height="180em" min-width="400em" src="https://github-readme-stats.vercel.app/api?username=SamuelKrabbe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" min-width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKrabbe&layout=compact&langs_count=7&theme=vue-dark"/>
   </div>
 </div>
 <div style="display: inline_block"><br>
