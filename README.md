@@ -5,6 +5,8 @@
 - 📌 Pretendo aprender Javascript, HTML, CSS, Java, Typescript, etc...
 - 👀 Curiosidade: Antes de entrar em ciência da computação, eu fiz 1 ano de agronomia pela UFMS 
 
+##
+
 <div align="center">
   <a href="https://github.com/SamuelKrabbe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelKrabbe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
