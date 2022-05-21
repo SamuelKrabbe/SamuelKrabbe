@@ -1,7 +1,5 @@
 ### Prazer! Eu me chamo Samuel Krabbe 👋
 
-Here are some ideas to get you started:
-
 - ⏳ Atualmente estou no 1º semestre de ciência da computação pela UFMS
 - 🎈 Estudando Python
 - 📌 Pretendo aprender Javascript, HTML, CSS, Java, Typescript, etc...
