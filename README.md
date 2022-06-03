@@ -3,7 +3,6 @@
 - ⏳ Atualmente estou no 1º semestre de ciência da computação pela UFMS
 - 🎈 Estudando Python
 - 📌 Pretendo aprender Javascript, HTML, CSS, Java, Typescript, etc...
-- 👀 Curiosidade: Antes de entrar em ciência da computação, eu fiz 1 ano de agronomia pela UFMS 
 
 ##
 
