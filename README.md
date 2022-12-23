@@ -1,6 +1,6 @@
 ### Prazer! Eu me chamo Samuel Krabbe 👋
 
-- ⏳ Atualmente estou no 2º semestre de ciência da computação pela UFMS
+- ⏳ Atualmente estou no 3º semestre de ciência da computação pela UFMS
 - 🎈 Estudando C, JavaScript, HTML e CSS
 - 📌 Pretendo aprender Java, Typescript, etc...
 
@@ -14,6 +14,10 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Samuel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Samuel-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
 ##
