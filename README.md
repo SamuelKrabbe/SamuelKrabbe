@@ -1,8 +1,8 @@
 ### Prazer! Eu me chamo Samuel Krabbe 👋
 
 - ⏳ Atualmente estou no 3º semestre de ciência da computação pela UFMS
-- 🎈 Estudando Java, JavaScript, HTML e CSS
-- 📌 Pretendo aprender Machine Learning, Web Security...
+- 🎈 Estudando Java e C++
+- 📌 Pretendo aprender Machine Learning...
 
 ##
 
