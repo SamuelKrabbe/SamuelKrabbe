@@ -1,8 +1,7 @@
 ### Prazer! Eu me chamo Samuel Krabbe 👋
 
-- ⏳ Atualmente estou no 4º semestre de ciência da computação pela UFMS
-- 🎈 Estudando Javascript, HTML, CSS e Java Spring Boot
-- 📌 Pretendo aprender outras tecnologias para front-end e back-end, como ReactJS, Bun, Vue, ...
+- ⏳ Atualmente estou no 5º semestre de ciência da computação pela UFMS
+- 🎈 Estudando Vuejs, Reactjs e Nodejs
 
 ##
 
