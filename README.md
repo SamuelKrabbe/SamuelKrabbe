@@ -1,7 +1,6 @@
 ### Prazer! Eu me chamo Samuel Krabbe 👋
 
-- ⏳ Atualmente estou no 6º semestre de ciência da computação pela UFMS
-- 🎈 Estudando Vuejs, Reactjs e Nodejs
+- ⏳ Atualmente estou no 7º semestre de ciência da computação pela UFMS
 
 ##
 
