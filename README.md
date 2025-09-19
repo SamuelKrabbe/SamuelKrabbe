@@ -1,6 +1,6 @@
 ### Prazer! Eu me chamo Samuel Krabbe 👋
 
-- ⏳ Atualmente estou no 7º semestre de ciência da computação pela UFMS
+- ⏳ Atualmente estou no 8º semestre de ciência da computação pela UFMS
 
 ##
 
