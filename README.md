@@ -38,14 +38,3 @@ Sou estudante de Ciência da Computação (8º semestre) na UFMS, com interesse 
 
 #
 
-### 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/SamuelKrabbe/SamuelKrabbe/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-> 📌 *Perfil em constante evolução, assim como meus estudos e projetos.*
