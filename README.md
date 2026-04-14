@@ -1,6 +1,6 @@
 # Samuel Krabbe
 
-Sou estudante de Ciência da Computação (8º semestre) na UFMS, com interesse em desenvolvimento de software, sistemas, e aprendizado contínuo.
+Sou estudante de Ciência da Computação (9º semestre) na UFMS, com interesse em desenvolvimento de software, sistemas, e aprendizado contínuo.
 
 <p align="left">
       <a href="https://github.com/SamuelKrabbe?tab=followers">
